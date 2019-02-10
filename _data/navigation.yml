@@ -19,6 +19,8 @@ sidebar-ML:
   - title: "Lecture"
 
 sidebar-3minDL:
+  - title: "GO BACK"
+    url: /ml/
   - title: "Intro"
     url: /3minDL/
   - title: "1장. 딥러닝과 텐서플로의 만남"
