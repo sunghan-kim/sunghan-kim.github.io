@@ -1,20 +1,25 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/
-  - title: "ML & DL"
-    url: /ml-dl/
+  - title: "ML"
+    url: /ml/
   - title: "Finance"
     url: /finance/
   - title: "Tags"
     url: /tag/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Categories"
+    url: /categories/
+
+sidebar-ML:
+  - title: "Book"
+    children :
+      - title: "3분딥러닝 텐서플로맛"
+        url: /3minDL/
+  - title: "Lecture"
+
+sidebar-3minDL:
+  - title: "Intro"
+    url: /3minDL/
+  - title: "1장. 딥러닝과 텐서플로의 만남"
+    url: "/ML/3minDL-ch01"

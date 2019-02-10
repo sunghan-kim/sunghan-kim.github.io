@@ -6,3 +6,12 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// font-size change
+.page__content {
+  font-size: 15px !important;
+}
+
+.page__lead {
+  display: none;
+}
