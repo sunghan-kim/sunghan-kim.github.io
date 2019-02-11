@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "ML"
-    url: /ml/
+  - title: "Data Science"
+    url: /dataScience/
   - title: "Finance"
     url: /finance/
   - title: "Tags"
@@ -11,7 +11,33 @@ main:
   - title: "Categories"
     url: /categories/
 
+sidebar-dataScience:
+  - title: "Intro"
+    url: /dataScience/
+  - title: "Kaggle"
+    url: /kaggle/
+  - title: "Machine Learning"
+    url: /ml/
+
+sidebar-Kaggle:
+  - title: "GO BACK"
+    url: /dataScience/
+  - title: "Intro"
+    url: /kaggle/
+  - title: "Competition"
+    children:
+      - title: "Titanic"
+        url: /comp-titanic/
+
+sidebar-comp-titanic:
+  - title: "GO BACK"
+    url: /kaggle/
+  - title: "Intro"
+    url: /comp-titanic/
+
 sidebar-ML:
+  - title: "GO BACK"
+    url: /dataScience/
   - title: "Book"
     children :
       - title: "3분딥러닝 텐서플로맛"
