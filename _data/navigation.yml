@@ -6,9 +6,7 @@ main:
     url: /dataScience/
   - title: "Finance"
     url: /finance/
-  - title: "Tags"
-    url: /tag/
-  - title: "Categories"
+  - title: "Posts By"
     url: /categories/
 
 sidebar-dataScience:
@@ -68,3 +66,9 @@ sidebar-Finance:
       - title: "금융공학 레시피"
         url: /finance-engineering-recipe/
   - title: "Lecture"
+
+sidebar-postsBy:
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tag/
