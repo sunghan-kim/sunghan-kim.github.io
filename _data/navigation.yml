@@ -60,6 +60,10 @@ sidebar-3minDL:
     url: /3minDL/
   - title: "1장. 딥러닝과 텐서플로의 만남"
     url: "ml/3min-dl-ch01"
+  - title: "2장. 텐서플로 설치와 주피터 노트북"
+    url: "ml/3min-dl-ch02"
+  - title: "3장. 텐서플로 프로그래밍 101"
+    url: "ml/3min-dl-ch03"
 
 sidebar-DLforAll:
   - title: "GO BACK"

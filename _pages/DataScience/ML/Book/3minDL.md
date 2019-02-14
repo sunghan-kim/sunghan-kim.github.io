@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/learn.jpg
   overlay_filter: 0.5
 ---
-<img src="/assets/images/book/3minDL.JPG" width="300px"/>
+<img src="/assets/images/book/3minDL/3minDL.JPG" width="300px"/>
 
 # 목차
 
