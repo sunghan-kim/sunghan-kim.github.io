@@ -2,12 +2,19 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Development"
+    url: /development/
   - title: "Data Science"
     url: /dataScience/
   - title: "Finance"
     url: /finance/
   - title: "Posts By"
     url: /categories/
+
+sidebar-development:
+  - title: "Intro"
+    url: /development/
+  - title: "JavaScript"
 
 sidebar-dataScience:
   - title: "Intro"
