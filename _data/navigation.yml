@@ -59,7 +59,7 @@ sidebar-3minDL:
   - title: "Intro"
     url: /3minDL/
   - title: "1장. 딥러닝과 텐서플로의 만남"
-    url: "ml/3minDL-ch01"
+    url: "ml/3min-dl-ch01"
 
 sidebar-DLforAll:
   - title: "GO BACK"
