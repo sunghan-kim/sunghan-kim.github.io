@@ -1,6 +1,6 @@
 ---
 title: "1장. 딥러닝과 텐서플로의 만남"
-date: 2019-02-10
+date: 2019-02-14
 category:
   - ML
 tag :
@@ -18,9 +18,3 @@ header:
   overlay_image: /assets/images/learn.jpg
   overlay_filter: 0.5
 ---
-이 포스트는 책 "3분 딥러닝 텐서플로맛"의 1장을 학습한 내용을 정리한 것입니다.
-
-
-# 1.1 인공지능, 머신러닝 그리고 딥러닝
-
-# 1.2 왜 텐서플로인가?
