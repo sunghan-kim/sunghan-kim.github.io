@@ -64,6 +64,8 @@ sidebar-3minDL:
     url: "ml/3min-dl-ch02"
   - title: "3장. 텐서플로 프로그래밍 101"
     url: "ml/3min-dl-ch03"
+  - title: "4장. 기본 신경망 구현"
+    url: "ml/3min-dl-ch04"
 
 sidebar-DLforAll:
   - title: "GO BACK"
