@@ -66,6 +66,8 @@ sidebar-3minDL:
     url: "ml/3min-dl-ch03"
   - title: "4장. 기본 신경망 구현"
     url: "ml/3min-dl-ch04"
+  - title: "5장. 텐서보드와 모델 재사용"
+    url: "ml/3min-dl-ch05"
 
 sidebar-DLforAll:
   - title: "GO BACK"
