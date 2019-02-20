@@ -68,6 +68,8 @@ sidebar-3minDL:
     url: "ml/3min-dl-ch04"
   - title: "5장. 텐서보드와 모델 재사용"
     url: "ml/3min-dl-ch05"
+  - title: "6장. 헬로 딥러닝 MNIST"
+    url: "ml/3min-dl-ch06"
 
 sidebar-DLforAll:
   - title: "GO BACK"
