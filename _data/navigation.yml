@@ -72,6 +72,8 @@ sidebar-3minDL:
     url: "ml/3min-dl-ch06"
   - title: "7장. 이미지 인식의 은총알 CNN"
     url: "ml/3min-dl-ch07"
+  - title: "8장. 대표적 비지도 학습법 Autoencoder"
+    url: "ml/3min-dl-ch08"
 
 sidebar-DLforAll:
   - title: "GO BACK"
