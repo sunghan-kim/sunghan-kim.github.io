@@ -74,6 +74,8 @@ sidebar-3minDL:
     url: "ml/3min-dl-ch07"
   - title: "8장. 대표적 비지도 학습법 Autoencoder"
     url: "ml/3min-dl-ch08"
+  - title: "9장. 딥러닝의 미래 GAN"
+    url: "ml/3min-dl-ch09"
 
 sidebar-DLforAll:
   - title: "GO BACK"
