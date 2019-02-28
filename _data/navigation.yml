@@ -70,13 +70,13 @@ sidebar-3minDL:
     url: "ml/3min-dl-ch05"
   - title: "6장. 헬로 딥러닝 MNIST"
     url: "ml/3min-dl-ch06"
-  - title: "7장. 이미지 인식의 은총알 CNN"
+  - title: "7장. CNN"
     url: "ml/3min-dl-ch07"
-  - title: "8장. 대표적 비지도 학습법 Autoencoder"
+  - title: "8장. Autoencoder"
     url: "ml/3min-dl-ch08"
-  - title: "9장. 딥러닝의 미래 GAN"
+  - title: "9장. GAN"
     url: "ml/3min-dl-ch09"
-  - title: "10장. 번역과 챗봇 모델의 기본 RNN"
+  - title: "10장. RNN"
     url: "ml/3min-dl-ch10"
 
 sidebar-DLforAll:
