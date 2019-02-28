@@ -78,6 +78,8 @@ sidebar-3minDL:
     url: "ml/3min-dl-ch09"
   - title: "10장. RNN"
     url: "ml/3min-dl-ch10"
+  - title: "11장. Inception"
+    url: "ml/3min-dl-ch11"
 
 sidebar-DLforAll:
   - title: "GO BACK"
