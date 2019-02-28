@@ -76,6 +76,8 @@ sidebar-3minDL:
     url: "ml/3min-dl-ch08"
   - title: "9장. 딥러닝의 미래 GAN"
     url: "ml/3min-dl-ch09"
+  - title: "10장. 번역과 챗봇 모델의 기본 RNN"
+    url: "ml/3min-dl-ch10"
 
 sidebar-DLforAll:
   - title: "GO BACK"
