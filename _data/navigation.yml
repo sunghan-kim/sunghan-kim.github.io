@@ -93,8 +93,68 @@ sidebar-Finance:
   - title: "Book"
     children:
       - title: "금융공학 레시피"
-        url: /finance-engineering-recipe/
+        url: /financial-engineering-recipe/
   - title: "Lecture"
+    children:
+      - title: "금융공학/퀀트"
+        url: /financial-engineering-quant/
+
+sidebar-FinancialEngineeringQuant:
+  - title: "GO BACK"
+    url: /finance/
+  - title: "R 프로그래밍"
+    children:
+      - title: "PART01. R 프로그래밍 기본"
+        url: /R-part01/
+  - title: "금융공학"
+    children:
+      - title: "PART01. 확률과 통계"
+        url: /financial-engineering-part01/
+      - title: "PART02. 통계 예측 모형"
+        url: /financial-engineering-part02/
+
+sidebar-R-part01:
+  - title: "GO BACK"
+    url: /financial-engineering-quant/
+  - title: "목차"
+    url: /R-part01/
+  - title: "CH00. 강의 소개"
+    url: "r/FE-quant-r-part01-ch00"
+  - title: "Ch01. Rstudio 설치 및 관리"
+    url: #
+  - title: "Ch02. 데이터의 종류 및 다루기"
+    url: #
+  - title: "Ch03. 함수의 구조 및 작성"
+    url: #
+
+sidebar-financial-engineering-part01:
+  - title: "GO BACK"
+    url: /financial-engineering-quant/
+  - title: "목차"
+    url: /financial-engineering-part01/
+  - title: "Ch00. 개요"
+    url: #
+  - title: "Ch01. 확률 기초"
+    url: #
+  - title: "Ch02. 확률변수와 확률분포함수"
+    url: #
+  - title: "Ch03. 통계 분석 1"
+    url: #
+  - title: "Ch04. 통계 분석 2"
+    url: #
+  - title: "Ch05. 시각화"
+    url: #
+
+sidebar-financial-engineering-part02:
+  - title: "GO BACK"
+    url: /financial-engineering-quant/
+  - title: "목차"
+    url: /financial-engineering-part02/
+  - title: "Ch01. 회귀 분석"
+    url: #
+  - title: "Ch02. 로지스틱 회귀"
+    url: #
+
 
 sidebar-postsBy:
   - title: "Categories"
