@@ -8,7 +8,14 @@ header:
   overlay_image: /assets/images/learn.jpg
   overlay_filter: 0.5
 ---
-<img src="/assets/images/book/3minDL/3minDL.JPG" width="300px"/>
+<img src="/assets/images/book/3minDL/3minDL.JPG" width="300px" align="center"/>
+
+<br>
+
+# 예제 소스 : [바로가기](https://github.com/golbin/TensorFlow-Tutorials)
+
+<br>
+<br>
 
 # 목차
 
