@@ -14,17 +14,17 @@ header:
 
 ## Chapter01. Rstudio 설치 및 관리
 
-### 01. R 언어 및 R studio 설치
+### 01. R 언어 및 R studio 설치  \[[바로가기](/r/FE-quant-r-part01-ch01-01/)\]
 
-### 02. Rstudio 구성
+### 02. Rstudio 구성  \[[바로가기](/r/FE-quant-r-part01-ch01-02/)\]
 
-### 03. Rstudio의 유용한 설정
+### 03. Rstudio의 유용한 설정  \[[바로가기](/r/FE-quant-r-part01-ch01-03/)\]
 
-### 04. 스크립트 파일 관리
+### 04. 스크립트 파일 관리  \[[바로가기](/r/FE-quant-r-part01-ch01-04/)\]
 
-### 05. 프로젝트를 이용한 파일관리
+### 05. 프로젝트를 이용한 파일관리  \[[바로가기](/r/FE-quant-r-part01-ch01-05/)\]
 
-### 06. 패키지 설치 및 관리
+### 06. 패키지 설치 및 관리  \[[바로가기](/r/FE-quant-r-part01-ch01-06/)\]
 
 <br>
 

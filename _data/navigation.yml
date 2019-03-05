@@ -118,10 +118,20 @@ sidebar-R-part01:
     url: /financial-engineering-quant/
   - title: "목차"
     url: /R-part01/
-  #- title: "CH00. 강의 소개"
-  #  url: "r/FE-quant-r-part01-ch00"
   - title: "Ch01. Rstudio 설치 및 관리"
-    url: "r/FE-quant-r-part01-ch01"
+    children:
+      - title: "01. R언어 및 Rstudio 설치"
+        url: "r/FE-quant-r-part01-ch01-01"
+      - title: "02. Rstudio 구성"
+        url: "r/FE-quant-r-part01-ch01-02"
+      - title: "03. Rstudio의 유용한 설정"
+        url: "r/FE-quant-r-part01-ch01-03"
+      - title: "04. 스크립트 파일 관리"
+        url: "r/FE-quant-r-part01-ch01-04"
+      - title: "05. 프로젝트를 이용한 파일관리"
+        url: "r/FE-quant-r-part01-ch01-05"
+      - title: "06. 패키지 설치 및 관리"
+        url: "r/FE-quant-r-part01-ch01-06"
   - title: "Ch02. 데이터의 종류 및 다루기"
     url: #
   - title: "Ch03. 함수의 구조 및 작성"
