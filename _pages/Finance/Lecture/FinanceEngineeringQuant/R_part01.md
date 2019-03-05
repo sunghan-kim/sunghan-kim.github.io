@@ -12,12 +12,6 @@ header:
 
 <br>
 
-## Chapter00. 강의 소개
-
-### 01. 강의 소개
-
-<br>
-
 ## Chapter01. Rstudio 설치 및 관리
 
 ### 01. R 언어 및 R studio 설치

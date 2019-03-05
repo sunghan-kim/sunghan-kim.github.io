@@ -118,10 +118,10 @@ sidebar-R-part01:
     url: /financial-engineering-quant/
   - title: "목차"
     url: /R-part01/
-  - title: "CH00. 강의 소개"
-    url: "r/FE-quant-r-part01-ch00"
+  #- title: "CH00. 강의 소개"
+  #  url: "r/FE-quant-r-part01-ch00"
   - title: "Ch01. Rstudio 설치 및 관리"
-    url: #
+    url: "r/FE-quant-r-part01-ch01"
   - title: "Ch02. 데이터의 종류 및 다루기"
     url: #
   - title: "Ch03. 함수의 구조 및 작성"
