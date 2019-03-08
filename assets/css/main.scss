@@ -35,5 +35,9 @@ pre, code, .highlighter-rouge {
 }
 
 .page__inner-wrap a {
-  target: _blank !important;  
+  target: _blank !important;
+}
+
+div .highlight {
+  margin: 5px 0;
 }

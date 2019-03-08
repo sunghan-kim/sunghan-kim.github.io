@@ -137,7 +137,13 @@ sidebar-R-part01:
       - title: "01. R의 데이터 유형"
         url: "r/FE-quant-r-part01-ch02-01"
       - title: "02. 단일 종류의 데이터"
-        url: "r/FE-quant-r-part01-ch02-02"        
+        url: "r/FE-quant-r-part01-ch02-02"
+      - title: "03. 단일 종류의 데이터 다루기"
+        url: "r/FE-quant-r-part01-ch02-03"
+      - title: "04. 리스트 다루기"
+        url: "r/FE-quant-r-part01-ch02-04"
+
+
   - title: "Ch03. 함수의 구조 및 작성"
     url: #
 
