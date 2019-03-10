@@ -142,7 +142,14 @@ sidebar-R-part01:
         url: "r/FE-quant-r-part01-ch02-03"
       - title: "04. 리스트 다루기"
         url: "r/FE-quant-r-part01-ch02-04"
-
+      - title: "05.1 데이터에 속성 추가"
+        url: "r/FE-quant-r-part01-ch02-05-01"
+      - title: "05.2.1 확장 벡터 (요인형)"
+        url: "r/FE-quant-r-part01-ch02-05-02-01"
+      - title: "05.2.2 확장 벡터 (메트릭스)"
+        url: "r/FE-quant-r-part01-ch02-05-02-02"
+      - title: "05.2.3 확장 벡터 (데이터프레임)"
+        url: "r/FE-quant-r-part01-ch02-05-02-03"
 
   - title: "Ch03. 함수의 구조 및 작성"
     url: #
