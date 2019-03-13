@@ -158,7 +158,9 @@ sidebar-R-part01:
       - title: "01. 함수의 구조 및 작성"
         url: "r/FE-quant-r-part01-ch03-01"
       - title: "02. 조건문 if"
-        url: "r/FE-quant-r-part01-ch03-02"        
+        url: "r/FE-quant-r-part01-ch03-02"
+      - title: "03. 반복문 for"
+        url: "r/FE-quant-r-part01-ch03-03"
 
 sidebar-financial-engineering-part01:
   - title: "GO BACK"
