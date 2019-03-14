@@ -166,15 +166,17 @@ sidebar-R-part01:
       - title: "05. apply 계열 함수"
         url: "r/FE-quant-r-part01-ch03-05"
       - title: "06. 에러 처리"
-        url: "r/FE-quant-r-part01-ch03-06"        
+        url: "r/FE-quant-r-part01-ch03-06"
 
 sidebar-financial-engineering-part01:
   - title: "GO BACK"
     url: /financial-engineering-quant/
   - title: "목차"
     url: /financial-engineering-part01/
-  - title: "Ch00. 개요"
-    url: #
+  #- title: "Ch00. 개요"
+  #  children:
+  #    - title: "01. 커리큘럼 Overview"
+  #      url: /FinancialEngineering/FE-quant-FE-part01-ch00-01/
   - title: "Ch01. 확률 기초"
     url: #
   - title: "Ch02. 확률변수와 확률분포함수"

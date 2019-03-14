@@ -12,15 +12,9 @@ header:
 
 <br>
 
-## Chapter00. 개요
-
-### 01. 커리큘럼 Overview
-
-<br>
-
 ## Chapter01. 확률 기초
 
-### 01. 확률의 정의
+### 01. 확률의 정의 \[[바로가기](/FinancialEngineering/FE-quant-FE-part01-ch01-01/)\]
 
 ### 02. 확률의 덧셈 법칙
 
