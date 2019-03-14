@@ -165,6 +165,8 @@ sidebar-R-part01:
         url: "r/FE-quant-r-part01-ch03-04"
       - title: "05. apply 계열 함수"
         url: "r/FE-quant-r-part01-ch03-05"
+      - title: "06. 에러 처리"
+        url: "r/FE-quant-r-part01-ch03-06"        
 
 sidebar-financial-engineering-part01:
   - title: "GO BACK"
