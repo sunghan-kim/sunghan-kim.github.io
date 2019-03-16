@@ -16,7 +16,7 @@ header:
 
 ### 01. 확률의 정의 \[[바로가기](/FinancialEngineering/FE-quant-FE-part01-ch01-01/)\]
 
-### 02. 확률의 덧셈 법칙
+### 02. 확률의 덧셈 법칙 \[[바로가기](/FinancialEngineering/FE-quant-FE-part01-ch01-02/)\]
 
 ### 03. 확률의 곱셈 법칙
 

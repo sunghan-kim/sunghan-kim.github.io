@@ -7,7 +7,8 @@ tag :
   - 시행
   - 표본공간
   - 사건
-  - 확률의 정의 (수학적, 통계적)
+  - 확률의 수학적 정의
+  - 확률의 통계적 정의
   - 확률의 기본 특성
 sidebar:
   nav: sidebar-financial-engineering-part01
