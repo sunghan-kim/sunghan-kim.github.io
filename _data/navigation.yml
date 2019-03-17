@@ -183,6 +183,8 @@ sidebar-financial-engineering-part01:
         url: "financialengineering/FE-quant-FE-part01-ch01-01/"
       - title: "02. 확률의 덧셈 법칙"
         url: "financialengineering/FE-quant-FE-part01-ch01-02/"
+      - title: "03. 확률의 곱셈 법칙"
+        url: "financialengineering/FE-quant-FE-part01-ch01-03/"        
 
   - title: "Ch02. 확률변수와 확률분포함수"
     url: #

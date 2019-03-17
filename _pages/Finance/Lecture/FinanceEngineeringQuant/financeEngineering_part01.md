@@ -18,7 +18,7 @@ header:
 
 ### 02. 확률의 덧셈 법칙 \[[바로가기](/financialengineering/FE-quant-FE-part01-ch01-02/)\]
 
-### 03. 확률의 곱셈 법칙
+### 03. 확률의 곱셈 법칙 \[[바로가기](/financialengineering/FE-quant-FE-part01-ch01-03/)\]
 
 ### 04. 베이즈 정리의 활용
 
