@@ -28,7 +28,7 @@ header:
 
 ### 01. 이산 확률변수와 확률분포함수의 유형 - 1 \[[바로가기](/financialengineering/FE-quant-FE-part01-ch02-01/)\]
 
-### 02. 이산 확률변수와 확률분포함수의 유형 - 2
+### 02. 이산 확률변수와 확률분포함수의 유형 - 2 \[[바로가기](/financialengineering/FE-quant-FE-part01-ch02-02/)\]
 
 ### 03. 이산 확률변수와 확률분포함수의 유형 - 3
 

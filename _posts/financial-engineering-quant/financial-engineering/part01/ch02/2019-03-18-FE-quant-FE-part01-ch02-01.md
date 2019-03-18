@@ -7,7 +7,7 @@ tag :
   - 확률변수
   - 확률분포함수
   - 모집단
-  - 모수 (모평균, 모분산, 모표준편차)
+  - 모수
 sidebar:
   nav: sidebar-financial-engineering-part01
 mathjax: "true"
@@ -218,9 +218,13 @@ $$
 \qquad
 \begin{align*}
 E[X-40] &= E[X] - 40 \\
+\\
 &= 100 \times P(X = 100) + 0 \times P(X = 0) - 40 \\
+\\
 &= 100 \times {1 \over 2} - 40 \\
+\\
 &= 50 - 40 \\
+\\
 &= 10
 \end{align*}
 $$
@@ -231,7 +235,9 @@ $$
 \qquad
 \begin{align*}
 Var(X - 40) &= Var(X) = E[X^2] - \left(E[X]\right)^2 \\
+\\
 &= 100^2 \times P(X = 100) + 0^2 \times P(X = 0) - 50^2 \quad \Leftarrow \quad E[X]= 50\\
+\\
 &= 10000 \times {1 \over 2} - 2500 = 5000 - 2500 = 2500
 \end{align*}
 $$
