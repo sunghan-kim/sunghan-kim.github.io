@@ -186,10 +186,13 @@ sidebar-financial-engineering-part01:
       - title: "03. 확률의 곱셈 법칙"
         url: "financialengineering/FE-quant-FE-part01-ch01-03/"
       - title: "04. 베이즈 정리와 활용"
-        url: "financialengineering/FE-quant-FE-part01-ch01-04/"     
+        url: "financialengineering/FE-quant-FE-part01-ch01-04/"
 
   - title: "Ch02. 확률변수와 확률분포함수"
-    url: #
+    children:
+      - title: "01. 이산 확률변수와 확률분포함수의 유형 - 1"
+        url: "financialengineering/FE-quant-FE-part01-ch02-01/"
+
   - title: "Ch03. 통계 분석 1"
     url: #
   - title: "Ch04. 통계 분석 2"
