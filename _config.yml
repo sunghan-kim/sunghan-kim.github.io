@@ -298,7 +298,7 @@ defaults:
       author_profile: true
       read_time: false
       comments: # true
-      share: true
+      share: false
       related: true
       toc: false
 
@@ -311,5 +311,5 @@ defaults:
       author_profile: true
       read_time: false
       comments: # true
-      share: true
+      share: false
       related: true
