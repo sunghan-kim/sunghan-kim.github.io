@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51181b15-c55b-4e74-a0fc-0e91419f02b8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.19.0" />
+      </map>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>plugins</find>
+      <find>avatar</find>
+      <find>skin</find>
+      <find>script</find>
+      <find>/</find>
+      <find>comment</find>
+      <find>font-size</find>
+      <find>page_content</find>
+      <find>site-title</find>
+      <find>padding-right</find>
+      <find>padding-right: 20</find>
+      <find>padding-right: 200px;</find>
+      <find>m</find>
+      <find>main.css</find>
+      <find>RStudio</find>
+      <find>shkim</find>
+      <find>code</find>
+      <find>MathJax</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/gemfile" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_pages/404.md" />
+        <option value="$PROJECT_DIR$/_pages/tag.html" />
+        <option value="$PROJECT_DIR$/_pages/about.md" />
+        <option value="$PROJECT_DIR$/_pages/machinelearning.md" />
+        <option value="$PROJECT_DIR$/_data/navigation.yml" />
+        <option value="$PROJECT_DIR$/_sass/minimal-mistakes/_reset.scss" />
+        <option value="$PROJECT_DIR$/assets/css/main.scss" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_site/tag/index.html" />
+        <option value="$PROJECT_DIR$/_includes/head.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/vendor/cache/ruby/2.3.0/gems/jekyll-theme-primer-0.5.3/_sass/primer-base/package.json" />
+      <path value="$PROJECT_DIR$/vendor/cache/ruby/2.3.0/gems/jekyll-theme-primer-0.5.3/_sass/primer-layout/package.json" />
+      <path value="$PROJECT_DIR$/vendor/cache/ruby/2.3.0/gems/jekyll-theme-primer-0.5.3/_sass/primer-markdown/package.json" />
+      <path value="$PROJECT_DIR$/vendor/cache/ruby/2.3.0/gems/jekyll-theme-primer-0.5.3/_sass/primer-support/package.json" />
+      <path value="$PROJECT_DIR$/vendor/cache/ruby/2.3.0/gems/jekyll-theme-primer-0.5.3/_sass/primer-utilities/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="825" />
+    <option name="y" value="5" />
+    <option name="width" value="1950" />
+    <option name="height" value="2100" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="github-io-jekyll-Minimal_Mistakes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github-io-jekyll-Minimal_Mistakes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github-io-jekyll-Minimal_Mistakes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github-io-jekyll-Minimal_Mistakes" type="462c0819:PsiDirectoryNode" />
+              <item name="_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github-io-jekyll-Minimal_Mistakes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github-io-jekyll-Minimal_Mistakes" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github-io-jekyll-Minimal_Mistakes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github-io-jekyll-Minimal_Mistakes" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github-io-jekyll-Minimal_Mistakes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github-io-jekyll-Minimal_Mistakes" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github-io-jekyll-Minimal_Mistakes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github-io-jekyll-Minimal_Mistakes" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\shkim\intelliJ\workspace\github-io-jekyll-Minimal_Mistakes\assets\images" />
+      <recent name="C:\shkim\intelliJ\workspace\github-io-jekyll-Minimal_Mistakes\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51181b15-c55b-4e74-a0fc-0e91419f02b8" name="Default" comment="" />
+      <created>1549410975184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549410975184</updated>
+      <workItem from="1549410978604" duration="1224000" />
+      <workItem from="1549462172120" duration="3934000" />
+      <workItem from="1549623951463" duration="3999000" />
+      <workItem from="1549630133861" duration="1594000" />
+      <workItem from="1549774258441" duration="6668000" />
+      <workItem from="1549883661376" duration="4639000" />
+      <workItem from="1550233028974" duration="1242000" />
+      <workItem from="1550413334881" duration="145000" />
+      <workItem from="1550670389881" duration="159000" />
+      <workItem from="1550849370645" duration="1361000" />
+      <workItem from="1551357376194" duration="2748000" />
+      <workItem from="1551593757986" duration="3422000" />
+      <workItem from="1551792889021" duration="10685000" />
+      <workItem from="1552718049716" duration="67000" />
+    </task>
+    <task id="LOCAL-00009" summary="Update post">
+      <created>1549783024939</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1549783024939</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update 3 min DL">
+      <created>1549785420654</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1549785420654</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Modify &quot;3minDL-ch01&quot; directory">
+      <created>1549785706330</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1549785706330</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add mathJax">
+      <created>1549788081345</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1549788081345</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add Lecture Of ML &amp; Update Finance Intro">
+      <created>1549790143171</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1549790143171</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Reconstruction Navigation Structure">
+      <created>1549878492822</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1549878492822</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Regist Sitemap &amp; feed">
+      <created>1549879164629</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1549879164629</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Update Posts By Navigation &amp; Title icon">
+      <created>1549896983270</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1549896983271</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Create DLforAll sidebar">
+      <created>1550143593254</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1550143593254</updated>
+    </task>
+    <task id="LOCAL-00018" summary="First Post : 3-min-deeplearning ch01">
+      <created>1550148125858</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1550148125858</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Modify Post Name &amp; Add toc In config">
+      <created>1550148382595</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1550148382595</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Upload Post">
+      <created>1550149050203</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1550149050203</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Upload 3min Deep Learning Chapter 04 Post">
+      <created>1550248162616</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1550248162616</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Upload 3min Deep Learning Chapter 05 Post">
+      <created>1550413388112</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1550413388112</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Upload 3min Deep Learning Chapter 06 Post">
+      <created>1550670423759</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1550670423759</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Upload 3min Deep Learning Chapter 07 Post &amp; Edit Line Break">
+      <created>1550849559317</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1550849559317</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Upload 3min Deep Learning Chapter 08 Post">
+      <created>1550910269844</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1550910269844</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Upload 3min Deep Learning Chapter 10 Post">
+      <created>1551357454381</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1551357454381</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Rename 3 min Deep Learning Chapter Navigation Name">
+      <created>1551357979697</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1551357979697</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Upload 3min Deep Learning Chapter 11 Post">
+      <created>1551367548821</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1551367548821</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Upload 3min Deep Learning Chapter 12 Post">
+      <created>1551450807468</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1551450807468</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Create Financial Engineering &amp; Quant Lecture Menu Tree">
+      <created>1551618531213</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1551618531213</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Modify Side Bar li tag top &amp; bottom Margin">
+      <created>1551697396662</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1551697396662</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Modify Email Link">
+      <created>1551793637633</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1551793637633</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Modify Single Code's Background-color &amp; Font-color">
+      <created>1551793717555</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1551793717555</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Posting R programming Part01 Chapter01">
+      <created>1551793768523</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1551793768523</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Modify FE-Quant R &gt; Part01 &gt; Ch01's Menu Structure">
+      <created>1551796968032</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1551796968032</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Setting Comments with Disqus">
+      <created>1551799413071</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1551799413071</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Update Menu Structure">
+      <created>1551799654002</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1551799654002</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Add Disqus">
+      <created>1551869862989</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1551869862989</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Add Comments True In Posts">
+      <created>1551870114613</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1551870114613</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Modify posts.html To Add Comments">
+      <created>1551870483887</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1551870483887</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Modify posts.html To Add Comments">
+      <created>1551870635936</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1551870635936</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Modify posts.html To Add Comments">
+      <created>1551871226305</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1551871226305</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Modify For Comments">
+      <created>1551871326770</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1551871326771</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Modify For Comments">
+      <created>1551871460072</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1551871460072</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Modify For Comments">
+      <created>1551871735926</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1551871735926</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Modify For Comments">
+      <created>1551871976876</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1551871976876</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Modify For Comments">
+      <created>1551872159127</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1551872159127</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Modify For Comments">
+      <created>1551872269619</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1551872269620</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Modify For Comments">
+      <created>1551872638267</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1551872638267</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Add Comment True In 3min DL Posts">
+      <created>1551872834721</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1551872834722</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Upload R programming Part01 Chapter02 01, 02 Posts">
+      <created>1551880448437</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1551880448437</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Upload R programming Part01 Chapter02 03, 04 Posts">
+      <created>1552056036762</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1552056036762</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Upload R programming Part01 Chapter02 05 Posts">
+      <created>1552207917779</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1552207917779</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Upload R programming Part01 Chapter02 06 Posts">
+      <created>1552211276324</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1552211276324</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Upload R programming Part01 Chapter03 01 Posts">
+      <created>1552395651196</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1552395651196</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Upload R programming Part01 Chapter03 01 Posts">
+      <created>1552397641120</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1552397641120</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Upload R programming Part01 Chapter03 03 Posts">
+      <created>1552484708300</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1552484708301</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41887000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1549" height="846" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Tail" order="11" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="12" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="CheckStyle" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38363513" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="14" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Upload 3min Deep Learning Chapter 07 Post &amp; Edit Line Break" />
+    <MESSAGE value="Upload 3min Deep Learning Chapter 08 Post" />
+    <MESSAGE value="Upload 3min Deep Learning Chapter 10 Post" />
+    <MESSAGE value="Rename 3 min Deep Learning Chapter Navigation Name" />
+    <MESSAGE value="Upload 3min Deep Learning Chapter 11 Post" />
+    <MESSAGE value="Upload 3min Deep Learning Chapter 12 Post" />
+    <MESSAGE value="Create Financial Engineering &amp; Quant Lecture Menu Tree" />
+    <MESSAGE value="Modify Side Bar li tag top &amp; bottom Margin" />
+    <MESSAGE value="Modify Email Link" />
+    <MESSAGE value="Modify Single Code's Background-color &amp; Font-color" />
+    <MESSAGE value="Posting R programming Part01 Chapter01" />
+    <MESSAGE value="Modify FE-Quant R &gt; Part01 &gt; Ch01's Menu Structure" />
+    <MESSAGE value="Setting Comments with Disqus" />
+    <MESSAGE value="Update Menu Structure" />
+    <MESSAGE value="Add Disqus" />
+    <MESSAGE value="Add Comments True In Posts" />
+    <MESSAGE value="Modify posts.html To Add Comments" />
+    <MESSAGE value="Modify For Comments" />
+    <MESSAGE value="Add Comment True In 3min DL Posts" />
+    <MESSAGE value="Upload R programming Part01 Chapter02 01, 02 Posts" />
+    <MESSAGE value="Upload R programming Part01 Chapter02 03, 04 Posts" />
+    <MESSAGE value="Upload R programming Part01 Chapter02 05 Posts" />
+    <MESSAGE value="Upload R programming Part01 Chapter02 06 Posts" />
+    <MESSAGE value="Upload R programming Part01 Chapter03 01 Posts" />
+    <MESSAGE value="Upload R programming Part01 Chapter03 03 Posts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload R programming Part01 Chapter03 03 Posts" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2023">
+          <caret line="119" column="18" selection-start-line="119" selection-start-column="18" selection-end-line="119" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4998">
+          <caret line="294" column="14" selection-start-line="294" selection-start-column="14" selection-end-line="294" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/machinelearning.md" />
+    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/tag-archive.html" />
+    <entry file="file://$PROJECT_DIR$/_pages/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="119">
+            <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5100">
+          <caret line="300" column="13" selection-start-line="300" selection-start-column="6" selection-end-line="300" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1887">
+          <caret line="111" column="8" selection-start-line="111" selection-start-column="2" selection-end-line="111" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="150" column="42" selection-start-line="150" selection-start-column="42" selection-end-line="150" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/sunghan_kim.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/404.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="204">
+            <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/banner.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/about.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/tag-archive.html" />
+    <entry file="file://$PROJECT_DIR$/_pages/machinelearning.md" />
+    <entry file="file://$PROJECT_DIR$/assets/images/finance.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/minimal-mistakes/_reset.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/cache/ruby/2.3.0/gems/jekyll-theme-primer-0.5.3/_sass/primer-markdown/lib/images.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-03-FE-quant-r-part01-ch00.md" />
+    <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="122" column="31" selection-start-line="122" selection-start-column="31" selection-end-line="122" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/tag/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="75" column="41" selection-start-line="75" selection-start-column="41" selection-end-line="75" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
