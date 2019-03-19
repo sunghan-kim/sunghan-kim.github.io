@@ -1,0 +1,33 @@
+---
+layout: archive
+permalink: /archive/
+title: "Posts by Archive"
+sidebar:
+  nav: sidebar-postsBy
+author_profile: false
+header:
+  overlay_image: /assets/images/category.jpg
+  overlay_filter: 0.5
+---
+
+<section class="archive-post-list">
+
+   {% for post in site.posts %}
+       {% assign currentDate = post.date | date: "%Y.%m" %}
+       {% if currentDate != myDate %}
+           {% unless forloop.first %}</ul>{% endunless %}
+           <h1>{{ currentDate }}</h1>
+           <ul>
+           {% assign myDate = currentDate %}
+       {% endif %}
+       <li>
+         <a href="{{ post.url }}">
+           <span class="archive-date">[{{ post.date | date: "%Y.%m.%d" }}]</span>
+
+           <span class="archive-title">{{ post.title }}</span>
+         </a>
+       </li>
+       {% if forloop.last %}</ul>{% endif %}
+   {% endfor %}
+
+</section>

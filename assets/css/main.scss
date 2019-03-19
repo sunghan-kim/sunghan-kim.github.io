@@ -50,3 +50,28 @@ table {
   width: 60%;
   margin: auto;
 }
+
+.initial-content .archive{
+  padding-right: 50px !important;
+}
+
+/*
+  Post By Archive Style
+*/
+.archive-date{
+  font-size: 18px !important;
+  color: black !important;
+}
+
+.archive-title{
+  font-size: 16px !important;
+  font-style: italic !important;
+}
+
+.archive-post-list ul{
+  list-style: none;
+}
+
+.archive-post-list a{
+  text-decoration: none;
+}

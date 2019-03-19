@@ -9,7 +9,7 @@ main:
   - title: "Finance"
     url: /finance/
   - title: "Posts By"
-    url: /categories/
+    url: /archive/
 
 sidebar-development:
   - title: "Intro"
@@ -93,7 +93,7 @@ sidebar-Finance:
   - title: "Book"
     children:
       - title: "금융공학 레시피"
-        url: /financial-engineering-recipe/
+        #url: /financial-engineering-recipe/
   - title: "Lecture"
     children:
       - title: "금융공학/퀀트"
@@ -214,7 +214,9 @@ sidebar-financial-engineering-part02:
 
 
 sidebar-postsBy:
+  #- title: "Tags"
+  #  url: /tag/
+  - title: "Archive"
+    url: /archive/
   - title: "Categories"
     url: /categories/
-  - title: "Tags"
-    url: /tag/
