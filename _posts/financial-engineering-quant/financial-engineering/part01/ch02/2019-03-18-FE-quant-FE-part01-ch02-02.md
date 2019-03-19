@@ -1,5 +1,5 @@
 ---
-title: "Chapter02 - 02. 이산 확률변수와 확률분포함수의 유형 - 2"
+title: "Chapter02 - 02. 이산확률 Ⅱ"
 date: 2019-03-18
 category:
   - FinancialEngineering
