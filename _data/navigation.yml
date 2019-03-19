@@ -194,6 +194,8 @@ sidebar-financial-engineering-part01:
         url: "financialengineering/FE-quant-FE-part01-ch02-01/"
       - title: "02. 이산확률 Ⅱ"
         url: "financialengineering/FE-quant-FE-part01-ch02-02/"
+      - title: "03. 이산확률 Ⅲ"
+        url: "financialengineering/FE-quant-FE-part01-ch02-03/"
 
   - title: "Ch03. 통계 분석 1"
     url: #
