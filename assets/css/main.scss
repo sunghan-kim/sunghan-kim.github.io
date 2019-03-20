@@ -24,10 +24,11 @@
   margin: 10px 0 !important;
 }
 
-pre, code, .highlighter-rouge {
-  background-color: #263238 !important;
+code.highlighter-rouge {
+  background-color: #f9f2f4 !important;
+  color: #c7254e !important;
   font-family: Monaco,Consolas,"Lucida Console",monospace !important;
-  color: #eff !important;
+
 }
 
 .page__hero--overlay blockquote {
@@ -40,6 +41,11 @@ pre, code, .highlighter-rouge {
 
 div .highlight {
   margin: 5px 0;
+  font-size: 14px !important;
+}
+
+pre .highlight {
+  color: #222222 !important;
 }
 
 div .MathJax_Display{
@@ -74,4 +80,19 @@ table {
 
 .archive-post-list a{
   text-decoration: none; // a 태그 스타일 제거
+}
+
+/*
+h 태크 폰트 크기
+*/
+h1{
+  font-size: 1.7em !important;
+}
+
+h2{
+  font-size: 1.5em !important;
+}
+
+h3{
+  font-size: 1.25em !important;
 }
