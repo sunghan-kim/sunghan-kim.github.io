@@ -39,7 +39,9 @@ header:
 
 ### (실습) 이산 확률 \[[바로가기](/financialengineering/FE-quant-FE-part01-ch02-p1/)\]
 
-### 04. 연속 확률변수와 확률밀도함수의 유형 - 1
+### 04. 연속 확률변수와 확률밀도함수의 유형 - 1 \[[바로가기](/financialengineering/FE-quant-FE-part01-ch02-04/)\]
+
+- 균등분포
 
 ### 05. 연속 확률변수와 확률밀도함수의 유형 - 2
 
