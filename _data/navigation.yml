@@ -200,6 +200,8 @@ sidebar-financial-engineering-part01:
         url: "financialengineering/FE-quant-FE-part01-ch02-p1/"
       - title: "04. 연속확률 Ⅰ"
         url: "financialengineering/FE-quant-FE-part01-ch02-04/"
+      - title: "05. 연속확률 Ⅱ"
+        url: "financialengineering/FE-quant-FE-part01-ch02-05/"
 
   - title: "Ch03. 통계 분석 1"
     url: #
