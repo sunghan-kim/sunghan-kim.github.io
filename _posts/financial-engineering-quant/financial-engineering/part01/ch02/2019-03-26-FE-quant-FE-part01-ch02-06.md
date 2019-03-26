@@ -1,5 +1,5 @@
 ---
-title: "Chapter02 - 05. 연속확률 Ⅲ"
+title: "Chapter02 - 06. 연속확률 Ⅲ"
 date: 2019-03-26
 category:
   - FinancialEngineering
