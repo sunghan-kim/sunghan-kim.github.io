@@ -69,7 +69,7 @@ comments: true
 
 - 어느 **특정 위치**($$x_0$$)에 대한 확률밀도함수의 값($$f(x_0)$$)은 확률의 **의미가 없다.**
 
-<div style="text-align: center">
+<div style="text-align: left; margin-left: 10px;">
 	<img src="/assets/images/lecture/FE_quant/FE/part01/ch02/img015.jpg" width="500px">
 </div>
 
@@ -77,7 +77,7 @@ comments: true
 
 - $$P(x_1 \leq X \leq x_2)$$와 같이 $$X$$가 **어느 구간**에 있을 확률이 **의미가 있다.**
 
-<div style="text-align: center">
+<div style="text-align: left; margin-left: 10px;">
 	<img src="/assets/images/lecture/FE_quant/FE/part01/ch02/img016.jpg" width="500px">
 </div>
 
@@ -99,7 +99,7 @@ comments: true
 
 2) $$f(x)$$가 정의되어 있는 구간에서 $$f(x)$$ 아래의 총 면적은 1과 같아야 한다.
 
-<div style="text-align: center">
+<div style="text-align: left; margin-left: 10px;">
 	<img src="/assets/images/lecture/FE_quant/FE/part01/ch02/img017.jpg" width="700px">
 </div>
 
@@ -122,7 +122,7 @@ $$\qquad \rightarrow \quad$$ 이외의 구간에서는 $$f(x) = 0$$이다.
 
 - 확률밀도가 균등하므로(즉, 확률밀도는 상수) 확률은 구간 $$[x_1, \, x_2]$$의 폭($$x_2 - x_1$$)에 비례한다.
 
-<div style="text-align: center">
+<div style="text-align: left; margin-left: 10px;">
 	<img src="/assets/images/lecture/FE_quant/FE/part01/ch02/img018.jpg" width="500px">
 </div>
 
@@ -196,7 +196,7 @@ CDF(x) &= P(-\infty \lt X \leq x) \\
 \end{align*}
 $$
 
-<div style="text-align: center">
+<div style="text-align: left; margin-left: 10px;">
 	<img src="/assets/images/lecture/FE_quant/FE/part01/ch02/img019.jpg" width="400px">
 </div>
 
@@ -208,7 +208,7 @@ $$
 
 - ex) $$a=-1, \, b=+1$$
 
-<div style="text-align: center">
+<div style="text-align: left; margin-left: 10px;">
 	<img src="/assets/images/lecture/FE_quant/FE/part01/ch02/img020.jpg" width="400px">
 </div>
 

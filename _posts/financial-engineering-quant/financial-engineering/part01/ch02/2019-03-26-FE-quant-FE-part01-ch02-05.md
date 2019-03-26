@@ -71,7 +71,7 @@ $$
 
 - $$\mu$$는 확률분포함수의 **봉우리의 위치**를 나타낸다.
 
-<div style="text-align: center">
+<div style="text-align: left; margin-left: 10px;">
 	<img src="/assets/images/lecture/FE_quant/FE/part01/ch02/img021.jpg" width="500px">
 </div>
 
@@ -83,7 +83,7 @@ $$
 
 - $$\sigma$$가 커질수록 확률분포함수의 **폭**이 더 넓어진다.
 
-<div style="text-align: center">
+<div style="text-align: left; margin-left: 10px;">
 	<img src="/assets/images/lecture/FE_quant/FE/part01/ch02/img022.jpg" width="500px">
 </div>
 
@@ -149,7 +149,7 @@ $$
 
 
 
-<div style="text-align: center">
+<div style="text-align: left; margin-left: 10px;">
 	<img src="/assets/images/lecture/FE_quant/FE/part01/ch02/img023.jpg" width="400px">
 </div>
 
@@ -164,7 +164,7 @@ $$
   - $$x \rightarrow + \infty$$ 일 때, $$CDF(x)$$는 1으로 수렴
   - $$x = 0$$ 일 때, $$CDF(x) = 0.5$$ 이다.
 
-<div style="text-align: center">
+<div style="text-align: left; margin-left: 10px;">
 	<img src="/assets/images/lecture/FE_quant/FE/part01/ch02/img024.jpg" width="400px">
 </div>
 
@@ -181,7 +181,7 @@ $$
 P(x_1 \leq X \leq x_2) = CDF(x_2) \, - \, CDF(x_1)
 $$
 
-<div style="text-align: center">
+<div style="text-align: left; margin-left: 10px;">
 	<img src="/assets/images/lecture/FE_quant/FE/part01/ch02/img025.jpg" width="600px">
 </div>
 
@@ -262,7 +262,7 @@ $$
 P(z_\alpha \lt Z) = \alpha
 $$
 
-<div style="text-align: center">
+<div style="text-align: left; margin-left: 10px;">
 	<img src="/assets/images/lecture/FE_quant/FE/part01/ch02/img026.jpg" width="300px">
 </div>
 
@@ -285,7 +285,7 @@ $$
 
 - 양쪽 꼬리에서 0.05의 확률씩을 떼어내면 중간 부분의 확률은 0.90 이 된다.
 
-<div style="text-align: center">
+<div style="text-align: left; margin-left: 10px;">
 	<img src="/assets/images/lecture/FE_quant/FE/part01/ch02/img027.jpg" width="300px">
 </div>
 
@@ -307,7 +307,7 @@ $$
 
 - 양쪽 꼬리에서 0.025의 확률씩 떼어내면 중간 부분의 확률은 0.95 가 된다.
 
-<div style="text-align: center">
+<div style="text-align: left; margin-left: 10px;">
 	<img src="/assets/images/lecture/FE_quant/FE/part01/ch02/img028.jpg" width="300px">
 </div>
 
