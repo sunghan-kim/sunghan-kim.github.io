@@ -4,9 +4,9 @@ date: 2019-03-26
 category:
   - FinancialEngineering
 tag :
-  - 정규분포함수
+  - 정규분포
   - 표준화
-  - 표준정규분포함수
+  - 표준정규분포
 sidebar:
   nav: sidebar-financial-engineering-part01
 mathjax: "true"

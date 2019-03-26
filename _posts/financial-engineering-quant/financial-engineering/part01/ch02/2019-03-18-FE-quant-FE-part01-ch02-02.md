@@ -286,6 +286,8 @@ $$
 X + Y = \{X_{Ber} + X_{Ber} + \cdots + X_{Ber}\} + \{X_{Ber} + X_{Ber} + \cdots + X_{Ber}\}
 $$
 
+$$\qquad\qquad\qquad\qquad\qquad\quad n개 \qquad\qquad\qquad\qquad\qquad\qquad m개$$
+
 $$
 \qquad
 \Rightarrow X + Y \sim Bin(n + m,\, p)
