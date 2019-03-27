@@ -58,7 +58,7 @@ header:
 - 스튜던트 t 분포
 - F 분포
 
-### (실습) 연속 확률
+### (실습) 연속 확률 \[[바로가기](/financialengineering/FE-quant-FE-part01-ch02-p2/)\]
 
 ### 08. 결합 확률분포
 
