@@ -60,7 +60,7 @@ header:
 
 ### (실습) 연속 확률 \[[바로가기](/financialengineering/FE-quant-FE-part01-ch02-p2/)\]
 
-### 08. 결합 확률분포
+### 08. 결합 확률분포 \[[바로가기](/financialengineering/FE-quant-FE-part01-ch02-08/)\]
 
 <br>
 

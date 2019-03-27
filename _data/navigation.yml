@@ -208,6 +208,8 @@ sidebar-financial-engineering-part01:
         url: "financialengineering/FE-quant-FE-part01-ch02-07/"
       - title: "(실습) 연속확률"
         url: "financialengineering/FE-quant-FE-part01-ch02-p2/"
+      - title: "08. 결합 확률분포"
+        url: "financialengineering/FE-quant-FE-part01-ch02-08/"
 
   - title: "Ch03. 통계 분석 1"
     url: #
