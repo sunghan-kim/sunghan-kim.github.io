@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # 테마 지정 : "default" # "air", "aqua"
 
 # Site Settings
 locale                   : "ko"
-title                    : "Sunghan's Study Blog"
+title                    : "Blub's Study Blog"
 title_separator          : "-"
 name                     : "Sunghan Kim"
 description              : "My Development Tech Blog"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : sunghan-kim/sunghan-kim.github.io
 # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : /assets/images/title_icon.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : /assets/images/bulbs_icon.jpg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -111,7 +111,7 @@ author:
   name             : "Sunghan kim"
   avatar           : "/assets/images/sunghan_kim.jpg"
   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am studying machine learning."
+  bio              : "I'm interested in data analysis ans finance."
   location         : "Seoul"
   email            :
   links:
@@ -130,7 +130,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://gitub.com/sunghan-kim"
+      url: "https://github.com/sunghan-kim"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
