@@ -111,7 +111,7 @@ author:
   name             : "Sunghan kim"
   avatar           : "/assets/images/sunghan_kim.jpg"
   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm interested in data analysis ans finance."
+  bio              : "I'm interested in data analysis and finance."
   location         : "Seoul"
   email            :
   links:
