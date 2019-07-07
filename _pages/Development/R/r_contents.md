@@ -1,8 +1,8 @@
 ---
-title: "PART 01) R 프로그래밍 기본"
-permalink: /R-part01/
+title: "R"
+permalink: /r_contents/
 sidebar:
-  nav: sidebar-R-part01
+  nav: sidebar-r
 author_profile: false
 header:
   overlay_image: /assets/images/finance.jpg
