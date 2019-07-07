@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # 테마 지정 : "default" # "air", "aqua"
 
 # Site Settings
 locale                   : "ko"
-title                    : "Blub's Study Blog"
+title                    : "Sunghan's Blog"
 title_separator          : "-"
 name                     : "Sunghan Kim"
 description              : "My Development Tech Blog"
