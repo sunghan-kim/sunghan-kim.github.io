@@ -6,8 +6,6 @@ main:
     url: /development/
   - title: "Data Science"
     url: /dataScience/
-  - title: "Finance"
-    url: /finance/
   - title: "Posts By"
     url: /archive/
 
@@ -185,14 +183,6 @@ sidebar-probabilityAndStatistics:
         url: "Statistics/stats-PAS-02-RV-PDF-p2/"
       - title: "08. 결합 확률분포"
         url: "Statistics/stats-PAS-02-RV-PDF-08/"
-
-
-sidebar-Finance:
-  - title: "Book"
-    children:
-      - title: "금융공학 레시피"
-        #url: /financial-engineering-recipe/
-
 
 
 sidebar-postsBy:
