@@ -10,10 +10,10 @@ sidebar:
   nav: sidebar-probabilityAndStatistics
 mathjax: "true"
 author_profile: false
-#toc: true
-#toc_label: "Contents"
-#toc_icon: "cog"
-#toc_sticky: true
+toc: true
+toc_label: "Contents"
+toc_icon: "cog"
+toc_sticky: true
 header:
   overlay_image: /assets/images/dataScience.jpg
   overlay_filter: 0.5
