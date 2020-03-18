@@ -78,30 +78,13 @@ sidebar-r-programming:
 sidebar-dataScience:
   - title: "Intro"
     url: /dataScience/
-  - title: "Kaggle"
-    url: /kaggle/
-  - title: "Machine Learning"
-    url: /ml/
   - title: "Statistics"
     url: /statistics/
+  - title: "BOOK"
+    url: /book/
 
-sidebar-Kaggle:
-  - title: "GO BACK"
-    url: /dataScience/
-  - title: "Intro"
-    url: /kaggle/
-  - title: "Competition"
-    children:
-      - title: "Titanic"
-        url: /comp-titanic/
 
-sidebar-comp-titanic:
-  - title: "GO BACK"
-    url: /kaggle/
-  - title: "Intro"
-    url: /comp-titanic/
-
-sidebar-ML:
+sidebar-book:
   - title: "GO BACK"
     url: /dataScience/
   - title: "Book"
@@ -111,7 +94,7 @@ sidebar-ML:
 
 sidebar-3minDL:
   - title: "GO BACK"
-    url: /ml/
+    url: /book/
   - title: "Intro"
     url: /3minDL/
   - title: "1장. 딥러닝과 텐서플로의 만남"
@@ -186,9 +169,9 @@ sidebar-probabilityAndStatistics:
 
 
 sidebar-postsBy:
-  #- title: "Tags"
-  #  url: /tag/
   - title: "Archive"
     url: /archive/
+  - title: "Tags"
+    url: /tag/
   - title: "Categories"
     url: /categories/
