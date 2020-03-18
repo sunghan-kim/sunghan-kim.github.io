@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: categories
 permalink: /categories/
 title: "Posts by Category"
 sidebar:
@@ -9,6 +9,7 @@ header:
   overlay_image: /assets/images/category.jpg
   overlay_filter: 0.5
 ---
+
 {% include group-by-array collection=site.posts field="categories" %}
 {% for category in group_names %}
   {% assign posts = group_items[forloop.index0] %}
