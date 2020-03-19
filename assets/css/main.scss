@@ -7,6 +7,11 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// main
+#main {
+  max-width: 1420px !important;
+}
+
 // font-size change
 .page__content {
   font-size: 15px !important;
@@ -17,7 +22,7 @@
 }
 
 .page {
-  padding-right: 0px !important;
+  //padding-right: 0px !important;
 }
 
 .sidebar li {
@@ -41,7 +46,7 @@ code.highlighter-rouge {
 
 div .highlight {
   margin: 5px 0;
-  font-size: 14px !important;
+  //font-size: 14px !important;
 }
 
 pre .highlight {
