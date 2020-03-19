@@ -143,7 +143,7 @@ print(array3, array3.dtype)
 
 `astype()` : ndarray 내 데이터값의 타입 변경
 
-- int32형 $\rightarrow$ float64으로 변환
+- int32형 $$\rightarrow$$ float64으로 변환
 
 
 ```python
@@ -158,7 +158,7 @@ print(array_float, array_float.dtype)
     [1. 2. 3.] float64
 
 
-- float64 $\rightarrow$ int32로 변환 (소숫점 아래 데이터 없는 경우)
+- float64 $$\rightarrow$$ int32로 변환 (소숫점 아래 데이터 없는 경우)
 
 
 ```python
@@ -169,7 +169,7 @@ print(array_int1, array_int1.dtype)
     [1 2 3] int32
 
 
-- float64 $\rightarrow$ int32로 변환 (소숫점 아래 데이터 있는 경우)
+- float64 $$\rightarrow$$ int32로 변환 (소숫점 아래 데이터 있는 경우)
 
 
 ```python
@@ -436,10 +436,10 @@ print('(row=2, col=2) index 가리키는 값 : ', array2d[2, 2])
 
 - `axis=0` : 로우 방향의 축 의미
 - `axis=1` : 컬럼 방향의 축 의미
-- [row=0, col=1] $\Rightarrow$ [axis 0=0, axis 1=1]
-- 2차원 $\Rightarrow$ axis 0, axis 1
-- 3차원 $\Rightarrow$ axis 0, axis 1, axis 2
-- 축 기반의 연산에서 axis가 생략 $\Rightarrow$ axis 0을 의미
+- [row=0, col=1] $$\Rightarrow$$ [axis 0=0, axis 1=1]
+- 2차원 $$\Rightarrow$$ axis 0, axis 1
+- 3차원 $$\Rightarrow$$ axis 0, axis 1, axis 2
+- 축 기반의 연산에서 axis가 생략 $$\Rightarrow$$ axis 0을 의미
 
 <br>
 
