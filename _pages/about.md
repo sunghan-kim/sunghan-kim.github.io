@@ -38,10 +38,12 @@ header:
   - 웹 개발 기술 학습 (HTML, CSS, JavaScript, jQuery, Java, JSP, JSTL, SQL 등)
   - 데이터 분석 기술 학습 (R, Python 활용)  
 
+<br>
 
 - **[2017.07 ~ 2017.09] 사내 홈페이지 Data Lake 개편**
   - 사내 홈페이지에서 사용중인 RDBMS를 NoSQL의 한 종류인 HBase로 전환하는 프로젝트 수행  
 
+<br>
 
 - **[2017.12 ~] 한국거래소 시장정보시스템 화면 개발**
   - 한국 거래소 내에서 생성되는 데이터를 바탕으로한 시장 상황 분석을 위한 화면 개발
@@ -57,13 +59,9 @@ header:
   - TOEIC 860
 
 - **Python**
-  - 작성중..
 
 - **Java**
-  - 작성중..
 
 - **JavaScript & jQuery**
-  - 작성중..
 
 - **SQL**
-  - 작성중..
