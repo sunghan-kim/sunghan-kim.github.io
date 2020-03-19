@@ -12,7 +12,7 @@ header:
   overlay_image: /assets/images/learn.jpg
   overlay_filter: 0.5
 ---
-<img src="/assets/images/book/pythonMLDefinitiveGuide/pythonMLDefinitiveGuide.jpg" width="500px" align="center"/>
+<img src="/assets/images/book/pythonMLDefinitiveGuide/cover.JPG" width="500px" align="center"/>
 
 <br>
 
