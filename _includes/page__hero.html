@@ -42,6 +42,21 @@
           {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
         {% endif %}
       </h1>
+
+      <br>
+
+      <!-- Tags -->
+      <!--
+      {% if page.tags %}
+        {% for tag in page.tags %}
+          {% if site.data.tags contains tag %}
+            &nbsp;&nbsp;&nbsp;<span class="tag" style="color: white; font-weight: bold">{{ tag }}</span>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+       -->
+      <!-- //Tags -->
+
       {% if page.header.show_overlay_excerpt != false and page.excerpt %}
         <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% endif %}
