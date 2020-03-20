@@ -29,7 +29,7 @@ header:
 
 ### 1.2 파이썬 머신러닝 생태계를 구성하는 주요 패키지 - <font color="blue">생략</font>
 
-### 1.3 넘파이 - <font color="red">작성중</font>
+### 1.3 넘파이 - <font color="red">완료</font>
 
 ### 1.4 데이터 핸들링 - 판다스
 
