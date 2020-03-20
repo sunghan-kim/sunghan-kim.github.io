@@ -2,11 +2,11 @@
 title: "1.3 넘파이"
 date: 2020-03-19
 category:
-  - ML
+  - Python
 tag :
   - NumPy
 sidebar:
-  nav: sidebar-pythonMLDefinitiveGuide-Ch01
+  nav: sidebar-pythonMLDefinitiveGuide
 mathjax: "true"
 author_profile: false
 toc: true
@@ -48,11 +48,12 @@ array1 = np.array([1,2,3])
 print('array1 type:', type(array1))
 print('array1 array 형태:', array1.shape)
 ```
+```
+array1 type: <class 'numpy.ndarray'>
+array1 array 형태: (3,)
+```
 
-    array1 type: <class 'numpy.ndarray'>
-    array1 array 형태: (3,)
-
-
+<br>
 
 ```python
 array2 = np.array([[1,2,3],
@@ -60,21 +61,22 @@ array2 = np.array([[1,2,3],
 print('array2 type:', type(array2))
 print('array2 array 형태:', array2.shape)
 ```
+```
+array2 type: <class 'numpy.ndarray'>
+array2 array 형태: (2, 3)
+```
 
-    array2 type: <class 'numpy.ndarray'>
-    array2 array 형태: (2, 3)
-
-
+<br>
 
 ```python
 array3 = np.array([[1,2,3]])
 print('array3 type:', type(array3))
 print('array3 array 형태:', array3.shape)
 ```
-
-    array3 type: <class 'numpy.ndarray'>
-    array3 array 형태: (1, 3)
-
+```
+array3 type: <class 'numpy.ndarray'>
+array3 array 형태: (1, 3)
+```
 
 <br>
 
@@ -157,6 +159,7 @@ print(array_float, array_float.dtype)
     array_int dtype :  int32
     [1. 2. 3.] float64
 
+<br>
 
 - float64 $$\rightarrow$$ int32로 변환 (소숫점 아래 데이터 없는 경우)
 
@@ -168,6 +171,7 @@ print(array_int1, array_int1.dtype)
 
     [1 2 3] int32
 
+<br>
 
 - float64 $$\rightarrow$$ int32로 변환 (소숫점 아래 데이터 있는 경우)
 
@@ -237,8 +241,6 @@ print(one_array.dtype, one_array.shape)
 
 <br>
 
-<br>
-
 ## 3.4 `ndarray`의 차원과 크기를 변경하는 `reshape()`
 
 
@@ -303,7 +305,7 @@ print('array3 shape: ', array3.shape)
     array2 shape:  (2, 5)
     array3 shape:  (5, 2)
 
-
+<br>
 
 ```python
 array1 = np.arange(10)
@@ -328,6 +330,8 @@ array1 = np.arange(10)
 `reshape(-1, 1)`
 
 - 원본 ndarray가 어떤 형태라도 2차원이고, 여러 개의 로우를 가지되 반드시 1개의 컬럼을 가진 ndarray로 변환됨을 보장
+
+<br>
 
 `tolist()`
 
@@ -382,6 +386,7 @@ print(type(value))
     value:  3
     <class 'numpy.int32'>
 
+<br>
 
 - `[-1]`는 맨 뒤의 데이터값 의미
 
@@ -392,6 +397,7 @@ print('맨 뒤의 값:', array1[-1], ' 맨 뒤에서 두 번째 값:', array1[-2
 
     맨 뒤의 값: 9  맨 뒤에서 두 번째 값: 8
 
+<br>
 
 - 단일 인덱스 이용 ndarray 내의 데이터값 수정
 
@@ -456,7 +462,7 @@ print(type(array3))
     [1 2 3]
     <class 'numpy.ndarray'>
 
-
+<br>
 
 ```python
 array1 = np.arange(start=1, stop=10)

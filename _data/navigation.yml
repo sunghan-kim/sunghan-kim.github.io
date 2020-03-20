@@ -138,16 +138,10 @@ sidebar-pythonMLDefinitiveGuide:
   - title: "Intro"
     url: /pythonMLDefinitiveGuide/
   - title: "CH01. 파이썬 기반의 머신러닝과 생태계 이해"
-    url: ml/ml-definitive-guide-ch01-v03
+    children:
+      - title: "1.3 넘파이"
+        url: python/ml-definitive-guide-ch01-v03
 ###################### 파이썬 머신러닝 완벽가이드 (end) #############################
-
-###################### 파이썬 머신러닝 완벽가이드 - 1장 (start) #############################
-sidebar-pythonMLDefinitiveGuide-Ch01:
-  - title: "GO BACK"
-    url: /pythonMLDefinitiveGuide/
-  - title: "1.3 넘파이"
-    url: ml/ml-definitive-guide-ch01-v03
-###################### 파이썬 머신러닝 완벽가이드 - 1장 (end) #############################
 
 ###################### book (end) #############################
 
