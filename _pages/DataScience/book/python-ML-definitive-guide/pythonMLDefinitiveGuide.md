@@ -9,7 +9,7 @@ toc_label: "Contents"
 toc_icon: "cog"
 toc_sticky: true
 header:
-  overlay_image: /assets/images/learn.jpg
+  overlay_image: /assets/images/dataScience.jpg
   overlay_filter: 0.5
 ---
 <img src="/assets/images/book/pythonMLDefinitiveGuide/cover.JPG" width="500px" align="center"/>

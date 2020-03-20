@@ -15,6 +15,6 @@ toc_label: "Contents"
 toc_icon: "cog"
 toc_sticky: true
 header:
-  overlay_image: /assets/images/learn.jpg
+  overlay_image: /assets/images/dataScience.jpg
   overlay_filter: 0.5
 ---
