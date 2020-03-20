@@ -1,6 +1,6 @@
 ---
 title: "1.4 데이터 핸들링 - 판다스"
-date: 2020-03-19
+date: 2020-03-20
 category:
   - Python
 tag :
@@ -11,7 +11,7 @@ tag :
   - DataFrame.groupby
   - Null Data Handling
 sidebar:
-  nav: sidebar-pythonMLDefinitiveGuide
+  nav: sidebar-pythonMLDefinitiveGuide-ch01
 mathjax: "true"
 author_profile: false
 toc: true

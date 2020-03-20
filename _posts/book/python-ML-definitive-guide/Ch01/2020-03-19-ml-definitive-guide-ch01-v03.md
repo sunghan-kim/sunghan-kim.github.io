@@ -6,7 +6,7 @@ category:
 tag :
   - NumPy
 sidebar:
-  nav: sidebar-pythonMLDefinitiveGuide
+  nav: sidebar-pythonMLDefinitiveGuide-ch01
 mathjax: "true"
 author_profile: false
 toc: true

@@ -137,12 +137,28 @@ sidebar-pythonMLDefinitiveGuide:
     url: /book/
   - title: "Intro"
     url: /pythonMLDefinitiveGuide/
-  - title: "CH01. 파이썬 기반의 머신러닝과 생태계 이해"
-    children:
-      - title: "1.3 넘파이"
-        url: python/ml-definitive-guide-ch01-v03
-      - title: "1.4 데이터 핸들링 - 판다스"
-        url: python/ml-definitive-guide-ch01-v04
+  - title: "CH01. 머신러닝과 생태계 이해"
+    url: python/ml-definitive-guide-ch01-v03
+  - title: "CH02. 사이킷런으로 시작하는 머신러닝"
+    url: ml/ml-definitive-guide-ch02-v02
+    
+sidebar-pythonMLDefinitiveGuide-ch01:
+  - title: "GO BACK"
+    url: /pythonMLDefinitiveGuide/
+  - title: "1.1 머신러닝의 개념 (생략)"
+  - title: "1.2 주요 패키지 (생략)"
+  - title: "1.3 넘파이"
+    url: python/ml-definitive-guide-ch01-v03
+  - title: "1.4 판다스"
+    url: python/ml-definitive-guide-ch01-v04
+  - title: "1.5 정리 (생략)"
+
+sidebar-pythonMLDefinitiveGuide-ch02:
+    - title: "GO BACK"
+      url: /pythonMLDefinitiveGuide/
+    - title: "2.1 사이킷런 소개와 특징 (생략)"
+    - title: "2.2 붓꽃 품종 에측하기"
+      url: ml/ml-definitive-guide-ch02-v02
 ###################### 파이썬 머신러닝 완벽가이드 (end) #############################
 
 ###################### book (end) #############################
