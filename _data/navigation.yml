@@ -141,6 +141,8 @@ sidebar-pythonMLDefinitiveGuide:
     children:
       - title: "1.3 넘파이"
         url: python/ml-definitive-guide-ch01-v03
+      - title: "1.4 데이터 핸들링 - 판다스"
+        url: python/ml-definitive-guide-ch01-v04
 ###################### 파이썬 머신러닝 완벽가이드 (end) #############################
 
 ###################### book (end) #############################
