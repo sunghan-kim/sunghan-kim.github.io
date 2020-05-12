@@ -15,6 +15,8 @@ sidebar-development:
     url: /development/
   - title: "R"
     url: /r/
+  - title: "PYTHON"
+    url: /python/
 
 sidebar-r:
   - title: "GO BACK"
@@ -75,6 +77,14 @@ sidebar-r-programming:
         url: "r/r-programming-03-function-05"
       - title: "06. 에러 처리"
         url: "r/r-programming-03-function-06"
+
+sidebar-python:
+  - title: "GO BACK"
+    url: /development/
+  - title: "POST"
+    children:
+      - title: "디렉토리 탐색"
+        url: "python/directory-search"
 
 ###################### development (end) #############################
 
