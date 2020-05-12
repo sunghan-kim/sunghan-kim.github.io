@@ -1,6 +1,6 @@
 ---
 title: "Python"
-permalink: /Python/
+permalink: /python/
 sidebar:
   nav: sidebar-python
 author_profile: false
