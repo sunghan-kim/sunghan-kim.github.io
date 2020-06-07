@@ -17,6 +17,10 @@ sidebar-development:
     url: /r/
   - title: "PYTHON"
     url: /python/
+  - title: "ALGORITHM"
+    url: /algorithm/
+
+###################### development - R (start) #############################
 
 sidebar-r:
   - title: "GO BACK"
@@ -78,6 +82,10 @@ sidebar-r-programming:
       - title: "06. 에러 처리"
         url: "r/r-programming-03-function-06"
 
+###################### development - R (end) #############################
+
+###################### development - Python (start) #############################
+
 sidebar-python:
   - title: "GO BACK"
     url: /development/
@@ -87,6 +95,34 @@ sidebar-python:
         url: "python/directory-search"
       - title: "데이터 정렬"
         url: "python/data-sort"
+
+###################### development - Python (end) #############################
+
+###################### development - Algorithm (start) #############################
+
+sidebar-algorithm:
+  - title: "GO BACK"
+    url: /development/
+  - title: "자료구조"
+    url: /data-structure/
+  - title: "정렬 알고리즘"
+    url: /sort-algorithm/
+  - title: "탐색 알고리즘"
+    url: /search-algorithm/
+
+sidebar-algorithm-data-structure:
+  - title: "GO BACK"
+    url: /algorithm/
+
+sidebar-algorithm-sort-algorithm:
+  - title: "GO BACK"
+    url: /algorithm/
+
+sidebar-algorithm-search-algorithm:
+  - title: "GO BACK"
+    url: /algorithm/
+
+###################### development - Algorithm (end) #############################
 
 ###################### development (end) #############################
 
