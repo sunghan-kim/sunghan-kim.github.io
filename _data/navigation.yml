@@ -85,6 +85,8 @@ sidebar-python:
     children:
       - title: "디렉토리 탐색"
         url: "python/directory-search"
+      - title: "데이터 정렬"
+        url: "python/data-sort"
 
 ###################### development (end) #############################
 
