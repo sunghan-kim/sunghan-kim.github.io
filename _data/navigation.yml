@@ -109,18 +109,53 @@ sidebar-algorithm:
     url: /sort-algorithm/
   - title: "탐색 알고리즘"
     url: /search-algorithm/
+  - title: "복잡도"
+    url: /complexity/
 
 sidebar-algorithm-data-structure:
   - title: "GO BACK"
     url: /algorithm/
+  - title: "배열"
+  - title: "큐"
+  - title: "스택"
+  - title: "링크드 리스트"
+  - title: "해쉬 테이블"
+  - title: "트리"
+  - title: "힙"
 
 sidebar-algorithm-sort-algorithm:
   - title: "GO BACK"
     url: /algorithm/
+  - title: "버블 정렬"
+  - title: "삽입 정렬"
+  - title: "선택 정렬"
+  - title: "재귀호출"
+  - title: "동적 계획법 & 분할 정복"
+  - title: "병합 정렬"
+  - title: "퀵 정렬"
 
 sidebar-algorithm-search-algorithm:
   - title: "GO BACK"
     url: /algorithm/
+  - title: "순차 탐색"
+  - title: "이진 탐색"
+  - title: "그래프"
+  - title: "BFS vs DFS"
+  - title: "너비 우선 탐색"
+  - title: "깊이 우선 탐색"
+  - title: "탐욕 알고리즘"
+  - title: "최단 경로 알고리즘"
+  - title: "다익스트라 알고리즘"
+  - title: "최소 신장 트리"
+  - title: "크루스칼 알고리즘"
+  - title: "프림 알고리즘"
+  - title: "백트래킹"
+
+sidebar-algorithm-complexity:
+  - title: "GO BACK"
+    url: /algorithm/
+  - title: "시간 복잡도"
+  - title: "공간 복잡도"
 
 ###################### development - Algorithm (end) #############################
 
