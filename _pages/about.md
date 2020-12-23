@@ -13,7 +13,7 @@ header:
 - 활동지역 : 서울 영등포구
 - 활동명 : zgotter
 - 이메일 : <a href="mailto:shkim4738@gmail.com">shkim4738@gmail.com</a>
-- GitHub : [https://github.com/sunghan-kim](https://github.com/sunghan-kim)
+- GitHub : [https://github.com/zgotter](https://github.com/zgotter)
 
 <br>
 

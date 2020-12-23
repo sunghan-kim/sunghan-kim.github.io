@@ -193,7 +193,7 @@ result[:10]
 
 ## 1.4 Github Cocde
 
-- [https://github.com/sunghan-kim/Project-News-Article-Crawling/blob/master/skill/directory-search.ipynb](https://github.com/sunghan-kim/Project-News-Article-Crawling/blob/master/skill/directory-search.ipynb)
+- [https://github.com/zgotter/Project-News-Article-Crawling/blob/master/skill/directory-search.ipynb](https://github.com/zgotter/Project-News-Article-Crawling/blob/master/skill/directory-search.ipynb)
 
 <br>
 
