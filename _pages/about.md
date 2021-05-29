@@ -8,10 +8,10 @@ header:
 
 ## Profile
 
+<img src="/assets/images/ksh.jpg" style="width: 250px;" />
+
 - 이름 : 김성한
-- 생년월일 : 1991-10-04
-- 활동지역 : 서울 영등포구
-- 활동명 : zgotter
+- 생년월일 : 1991년 10월 4일
 - 이메일 : <a href="mailto:shkim4738@gmail.com">shkim4738@gmail.com</a>
 - GitHub : [https://github.com/zgotter](https://github.com/zgotter)
 
@@ -34,6 +34,8 @@ header:
 
 ## Work Experience
 
+### Web development
+
 - **[2016.11 ~ 2017.05] 응용SW엔지니어링 기반의 빅데이터 기술분석 전문가 양성과정 (수료)**
   - 웹 개발 기술 학습 (HTML, CSS, JavaScript, jQuery, Java, JSP, JSTL, SQL 등)
   - 데이터 분석 기술 학습 (R, Python 활용)  
@@ -45,7 +47,7 @@ header:
 
 <br>
 
-- **[2017.12 ~ 2020.05] 한국거래소 시장정보시스템 화면 개발**
+- **[2017.12 ~ 2020.05] 한국거래소 시장정보시스템 운영**
   - 한국 거래소 내에서 생성되는 데이터를 바탕으로한 시장 상황 분석을 위한 화면 개발
   - 사용자가 원하는 데이터를 추출하기 위한 SQL문 작성
   - 데이터를 화면에 표출하기 위한 javaScript, jQuery, JSTL 등 활용
@@ -58,15 +60,11 @@ header:
 
 <br>
 
-## Skill
+- **[2020.07 ~ 2021.01] 한국거래소 자본시장 정보데이터 종합센터 시스템 개발**
+  - 한국거래소의 정보데이터시스템 구축 프로젝트 수행
+  - 공매도 통계, 정보데이터 종합사전, 간행물, 관리자 화면 등 개발
 
-- **English**
-  - TOEIC 860
+<br>
 
-- **Python**
-
-- **Java**
-
-- **JavaScript & jQuery**
-
-- **SQL**
+- **[2021.01 ~ 2021.05] 한국거래소 정보데이터시스템 운영**
+  - 한국 거래소의 다양한 통계정보를 제공하는 정보데이터시스템 운영 업무 수행

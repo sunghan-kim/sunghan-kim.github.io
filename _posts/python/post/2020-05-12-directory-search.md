@@ -191,7 +191,7 @@ result[:10]
 
 <br>
 
-## 1.4 Github Cocde
+## 1.4 Github Code
 
 - [https://github.com/zgotter/Project-News-Article-Crawling/blob/master/skill/directory-search.ipynb](https://github.com/zgotter/Project-News-Article-Crawling/blob/master/skill/directory-search.ipynb)
 

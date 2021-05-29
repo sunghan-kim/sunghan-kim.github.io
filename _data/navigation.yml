@@ -13,8 +13,8 @@ main:
 sidebar-development:
   - title: "Intro"
     url: /development/
-  - title: "R"
-    url: /r/
+  #- title: "R"
+    #url: /r/
   - title: "PYTHON"
     url: /python/
   - title: "ALGORITHM"
@@ -22,65 +22,65 @@ sidebar-development:
 
 ###################### development - R (start) #############################
 
-sidebar-r:
-  - title: "GO BACK"
-    url: /development/
-  - title: "R 프로그래밍"
-    url: /r_programming_contents/
-
-sidebar-r-programming:
-  - title: "GO BACK"
-    url: /development/
-  - title: "Contents"
-    url: /r_programming_contents/
-  - title: "1 - Install"
-    children:
-      - title: "01. R언어 및 Rstudio 설치"
-        url: "r/r-programming-01-install-01"
-      - title: "02. Rstudio 구성"
-        url: "r/r-programming-01-install-02"
-      - title: "03. 스크립트 파일 관리"
-        url: "r/r-programming-01-install-03"
-      - title: "04. 프로젝트를 이용한 파일관리"
-        url: "r/r-programming-01-install-04"
-      - title: "05. 패키지 설치 및 관리"
-        url: "r/r-programming-01-install-05"
-
-  - title: "2 - Data Type"
-    children:
-      - title: "01. R의 데이터 유형"
-        url: "r/r-programming-02-dataType-01"
-      - title: "02. 단일 종류의 데이터"
-        url: "r/r-programming-02-dataType-02"
-      - title: "03. 단일 종류의 데이터 다루기"
-        url: "r/r-programming-02-dataType-03"
-      - title: "04. 리스트 다루기"
-        url: "r/r-programming-02-dataType-04"
-      - title: "05.1 데이터에 속성 추가"
-        url: "r/r-programming-02-dataType-05-01"
-      - title: "05.2.1 확장 벡터 (요인형)"
-        url: "r/r-programming-02-dataType-05-02-01"
-      - title: "05.2.2 확장 벡터 (메트릭스)"
-        url: "r/r-programming-02-dataType-05-02-02"
-      - title: "05.2.3 확장 벡터 (데이터프레임)"
-        url: "r/r-programming-02-dataType-05-02-03"
-      - title: "06. R의 기본 연산자"
-        url: "r/r-programming-02-dataType-06"
-
-  - title: "3 - Function"
-    children:
-      - title: "01. 함수의 구조 및 작성"
-        url: "r/r-programming-03-function-01"
-      - title: "02. 조건문 if"
-        url: "r/r-programming-03-function-02"
-      - title: "03. 반복문 for"
-        url: "r/r-programming-03-function-03"
-      - title: "04. 반복문 작성 예시"
-        url: "r/r-programming-03-function-04"
-      - title: "05. apply 계열 함수"
-        url: "r/r-programming-03-function-05"
-      - title: "06. 에러 처리"
-        url: "r/r-programming-03-function-06"
+# sidebar-r:
+#   - title: "GO BACK"
+#     url: /development/
+#   - title: "R 프로그래밍"
+#     url: /r_programming_contents/
+#
+# sidebar-r-programming:
+#   - title: "GO BACK"
+#     url: /development/
+#   - title: "Contents"
+#     url: /r_programming_contents/
+#   - title: "1 - Install"
+#     children:
+#       - title: "01. R언어 및 Rstudio 설치"
+#         url: "r/r-programming-01-install-01"
+#       - title: "02. Rstudio 구성"
+#         url: "r/r-programming-01-install-02"
+#       - title: "03. 스크립트 파일 관리"
+#         url: "r/r-programming-01-install-03"
+#       - title: "04. 프로젝트를 이용한 파일관리"
+#         url: "r/r-programming-01-install-04"
+#       - title: "05. 패키지 설치 및 관리"
+#         url: "r/r-programming-01-install-05"
+#
+#   - title: "2 - Data Type"
+#     children:
+#       - title: "01. R의 데이터 유형"
+#         url: "r/r-programming-02-dataType-01"
+#       - title: "02. 단일 종류의 데이터"
+#         url: "r/r-programming-02-dataType-02"
+#       - title: "03. 단일 종류의 데이터 다루기"
+#         url: "r/r-programming-02-dataType-03"
+#       - title: "04. 리스트 다루기"
+#         url: "r/r-programming-02-dataType-04"
+#       - title: "05.1 데이터에 속성 추가"
+#         url: "r/r-programming-02-dataType-05-01"
+#       - title: "05.2.1 확장 벡터 (요인형)"
+#         url: "r/r-programming-02-dataType-05-02-01"
+#       - title: "05.2.2 확장 벡터 (메트릭스)"
+#         url: "r/r-programming-02-dataType-05-02-02"
+#       - title: "05.2.3 확장 벡터 (데이터프레임)"
+#         url: "r/r-programming-02-dataType-05-02-03"
+#       - title: "06. R의 기본 연산자"
+#         url: "r/r-programming-02-dataType-06"
+#
+#   - title: "3 - Function"
+#     children:
+#       - title: "01. 함수의 구조 및 작성"
+#         url: "r/r-programming-03-function-01"
+#       - title: "02. 조건문 if"
+#         url: "r/r-programming-03-function-02"
+#       - title: "03. 반복문 for"
+#         url: "r/r-programming-03-function-03"
+#       - title: "04. 반복문 작성 예시"
+#         url: "r/r-programming-03-function-04"
+#       - title: "05. apply 계열 함수"
+#         url: "r/r-programming-03-function-05"
+#       - title: "06. 에러 처리"
+#         url: "r/r-programming-03-function-06"
 
 ###################### development - R (end) #############################
 
@@ -109,8 +109,6 @@ sidebar-algorithm:
     url: /sort-algorithm/
   - title: "탐색 알고리즘"
     url: /search-algorithm/
-  - title: "복잡도"
-    url: /complexity/
 
 sidebar-algorithm-data-structure:
   - title: "GO BACK"
@@ -151,12 +149,6 @@ sidebar-algorithm-search-algorithm:
   - title: "프림 알고리즘"
   - title: "백트래킹"
 
-sidebar-algorithm-complexity:
-  - title: "GO BACK"
-    url: /algorithm/
-  - title: "시간 복잡도"
-  - title: "공간 복잡도"
-
 ###################### development - Algorithm (end) #############################
 
 ###################### development (end) #############################
@@ -167,8 +159,8 @@ sidebar-dataScience:
     url: /dataScience/
   - title: "BOOK"
     url: /book/
-  - title: "Statistics"
-    url: /statistics/
+#  - title: "Statistics"
+#    url: /statistics/
 
 ###################### book (start) #############################
 
@@ -249,50 +241,50 @@ sidebar-pythonMLDefinitiveGuide-ch02:
 ###################### book (end) #############################
 
 ###################### statistics (start) #############################
-sidebar-statistics:
-  - title: "GO BACK"
-    url: /dataScience/
-  - title: "확률과 통계"
-    url: /probability_and_statistics_contents/
-
-sidebar-probabilityAndStatistics:
-  - title: "GO BACK"
-    url: /statistics/
-  - title: "Contents"
-    url: /probability_and_statistics_contents/
-  - title: "1 - 확률 기초"
-    children:
-      - title: "01. 확률의 정의"
-        url: "Statistics/stats-PAS-01-basic-01/"
-      - title: "02. 확률의 덧셈 법칙"
-        url: "Statistics/stats-PAS-01-basic-02/"
-      - title: "03. 확률의 곱셈 법칙"
-        url: "Statistics/stats-PAS-01-basic-03/"
-      - title: "04. 베이즈 정리와 활용"
-        url: "Statistics/stats-PAS-01-basic-04/"
-
-  - title: "2 - 확률변수와 확률분포함수"
-    children:
-      - title: "01. 이산확률 Ⅰ"
-        url: "Statistics/stats-PAS-02-RV-PDF-01/"
-      - title: "02. 이산확률 Ⅱ"
-        url: "Statistics/stats-PAS-02-RV-PDF-02/"
-      - title: "03. 이산확률 Ⅲ"
-        url: "Statistics/stats-PAS-02-RV-PDF-03/"
-      - title: "(실습) 이산확률"
-        url: "Statistics/stats-PAS-02-RV-PDF-p1/"
-      - title: "04. 연속확률 Ⅰ"
-        url: "Statistics/stats-PAS-02-RV-PDF-04/"
-      - title: "05. 연속확률 Ⅱ"
-        url: "Statistics/stats-PAS-02-RV-PDF-05/"
-      - title: "06. 연속확률 Ⅲ"
-        url: "Statistics/stats-PAS-02-RV-PDF-06/"
-      - title: "07. 연속확률 Ⅳ"
-        url: "Statistics/stats-PAS-02-RV-PDF-07/"
-      - title: "(실습) 연속확률"
-        url: "Statistics/stats-PAS-02-RV-PDF-p2/"
-      - title: "08. 결합 확률분포"
-        url: "Statistics/stats-PAS-02-RV-PDF-08/"
+# sidebar-statistics:
+#   - title: "GO BACK"
+#     url: /dataScience/
+#   - title: "확률과 통계"
+#     url: /probability_and_statistics_contents/
+#
+# sidebar-probabilityAndStatistics:
+#   - title: "GO BACK"
+#     url: /statistics/
+#   - title: "Contents"
+#     url: /probability_and_statistics_contents/
+#   - title: "1 - 확률 기초"
+#     children:
+#       - title: "01. 확률의 정의"
+#         url: "Statistics/stats-PAS-01-basic-01/"
+#       - title: "02. 확률의 덧셈 법칙"
+#         url: "Statistics/stats-PAS-01-basic-02/"
+#       - title: "03. 확률의 곱셈 법칙"
+#         url: "Statistics/stats-PAS-01-basic-03/"
+#       - title: "04. 베이즈 정리와 활용"
+#         url: "Statistics/stats-PAS-01-basic-04/"
+#
+#   - title: "2 - 확률변수와 확률분포함수"
+#     children:
+#       - title: "01. 이산확률 Ⅰ"
+#         url: "Statistics/stats-PAS-02-RV-PDF-01/"
+#       - title: "02. 이산확률 Ⅱ"
+#         url: "Statistics/stats-PAS-02-RV-PDF-02/"
+#       - title: "03. 이산확률 Ⅲ"
+#         url: "Statistics/stats-PAS-02-RV-PDF-03/"
+#       - title: "(실습) 이산확률"
+#         url: "Statistics/stats-PAS-02-RV-PDF-p1/"
+#       - title: "04. 연속확률 Ⅰ"
+#         url: "Statistics/stats-PAS-02-RV-PDF-04/"
+#       - title: "05. 연속확률 Ⅱ"
+#         url: "Statistics/stats-PAS-02-RV-PDF-05/"
+#       - title: "06. 연속확률 Ⅲ"
+#         url: "Statistics/stats-PAS-02-RV-PDF-06/"
+#       - title: "07. 연속확률 Ⅳ"
+#         url: "Statistics/stats-PAS-02-RV-PDF-07/"
+#       - title: "(실습) 연속확률"
+#         url: "Statistics/stats-PAS-02-RV-PDF-p2/"
+#       - title: "08. 결합 확률분포"
+#         url: "Statistics/stats-PAS-02-RV-PDF-08/"
 ###################### statistics (end) #############################
 
 ###################### data sicence (end) #############################
@@ -300,7 +292,7 @@ sidebar-probabilityAndStatistics:
 sidebar-postsBy:
   - title: "Archive"
     url: /archive/
-  - title: "Tags"
-    url: /tags/
-  - title: "Categories"
-    url: /categories/
+#  - title: "Tags"
+#    url: /tags/
+#  - title: "Categories"
+#    url: /categories/
